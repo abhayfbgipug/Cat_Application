@@ -1,1 +1,3 @@
 # Cat_Application
+
+The CAT Exam Portal is a full-stack web application designed to assist aspiring CAT exam takers and administrators. It features a dynamic user interface built with HTML, CSS, and JavaScript, along with JSP and Servlets for backend processing. The application includes pages for candidate registration, secure login, exam details, admit card generation, as well as an admin panel for managing approvals and data. Apache Derby is used for efficient database management, ensuring seamless data handling. The project is deployable on a servlet container like Apache Tomcat and provides an interactive, user-friendly experience for candidates and administrators alike.
